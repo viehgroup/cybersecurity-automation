@@ -1,1 +1,81 @@
 
+# Day 01 — Port Scanner
+
+A simple Python-based TCP port scanner that scans a target host for open TCP ports.
+
+---
+
+## Features
+
+- Fast TCP port scanning
+- Custom target support
+- Detects open ports
+- Beginner-friendly code structure
+- Lightweight and easy to use
+
+---
+
+## Technologies Used
+
+- Python
+- Socket Programming
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Day-01-Port-Scanner.git
+cd Day-01-Port-Scanner
+```
+
+---
+
+## Usage
+
+```bash
+python scanner.py
+```
+
+Enter:
+- Target IP or domain
+- Port range
+
+Example:
+
+```text
+Target: scanme.nmap.org
+Start Port: 1
+End Port: 100
+```
+
+---
+
+## Example Output
+
+```text
+[+] Port 22 is OPEN
+[+] Port 80 is OPEN
+[+] Port 443 is OPEN
+```
+
+---
+
+## What You Will Learn
+
+- Basics of socket programming
+- TCP communication
+- Port scanning concepts
+- Network enumeration fundamentals
+
+---
+
+## Disclaimer
+
+This project is intended for educational and authorized security testing purposes only.
+
+---
+
+# 30 Days of Cybersecurity Automation by VIEH Group
+
+Building practical cybersecurity tools, one day at a time.
