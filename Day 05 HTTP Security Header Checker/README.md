@@ -24,8 +24,8 @@ A simple Python-based tool that analyzes a website's HTTP security headers and i
 ## Installation
 
 ```bash
-git clone https://github.com/viehgroup/cybersecurity-automation.git
-cd Day-05-HTTP-Security-Header-Checker
+git clone url
+cd filename
 ```
 
 Install dependencies:
